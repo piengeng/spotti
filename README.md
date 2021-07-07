@@ -1,0 +1,2 @@
+# spotti
+muting spotify ads
